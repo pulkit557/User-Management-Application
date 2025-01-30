@@ -66,4 +66,9 @@ In the project directory, you can run:
 - `npm start`: Runs the app in development mode.
 - `npm run build`: Builds the app for production to the `build` folder.
 
+  ## Screenshot
+
+   ![Screenshot 2025-01-30 151955](https://github.com/user-attachments/assets/97dc7d7c-73c1-4011-8a3b-77aa0ae652c2)
+
+
 ```
